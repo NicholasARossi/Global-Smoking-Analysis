@@ -1,0 +1,554 @@
+{
+  "axes": [],
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {
+          "x": "ALB",
+          "y": 29.1
+        },
+        {
+          "x": "ARG",
+          "y": 23.8
+        },
+        {
+          "x": "ARM",
+          "y": 26.9
+        },
+        {
+          "x": "AUS",
+          "y": 14.9
+        },
+        {
+          "x": "AZE",
+          "y": 22.8
+        },
+        {
+          "x": "BEL",
+          "y": 23.1
+        },
+        {
+          "x": "BEN",
+          "y": 9.2
+        },
+        {
+          "x": "BFA",
+          "y": 19.9
+        },
+        {
+          "x": "BGD",
+          "y": 20.3
+        },
+        {
+          "x": "BGR",
+          "y": 35.0
+        },
+        {
+          "x": "BLR",
+          "y": 26.8
+        },
+        {
+          "x": "BOL",
+          "y": 23.7
+        },
+        {
+          "x": "BRA",
+          "y": 15.2
+        },
+        {
+          "x": "CAN",
+          "y": 14.9
+        },
+        {
+          "x": "CHE",
+          "y": 23.2
+        },
+        {
+          "x": "CHL",
+          "y": 38.0
+        },
+        {
+          "x": "CHN",
+          "y": 25.3
+        },
+        {
+          "x": "CMR",
+          "y": 22.2
+        },
+        {
+          "x": "COL",
+          "y": 10.9
+        },
+        {
+          "x": "CRI",
+          "y": 13.5
+        },
+        {
+          "x": "CUB",
+          "y": 35.3
+        },
+        {
+          "x": "CZE",
+          "y": 33.1
+        },
+        {
+          "x": "DEU",
+          "y": 30.3
+        },
+        {
+          "x": "DNK",
+          "y": 17.0
+        },
+        {
+          "x": "ECU",
+          "y": 8.6
+        },
+        {
+          "x": "EGY",
+          "y": 25.0
+        },
+        {
+          "x": "ESP",
+          "y": 29.1
+        },
+        {
+          "x": "EST",
+          "y": 32.3
+        },
+        {
+          "x": "ETH",
+          "y": 4.7
+        },
+        {
+          "x": "FIN",
+          "y": 20.8
+        },
+        {
+          "x": "FJI",
+          "y": 25.7
+        },
+        {
+          "x": "FRA",
+          "y": 27.6
+        },
+        {
+          "x": "GBR",
+          "y": 19.2
+        },
+        {
+          "x": "GEO",
+          "y": 29.6
+        },
+        {
+          "x": "GHA",
+          "y": 6.6
+        },
+        {
+          "x": "GRC",
+          "y": 42.4
+        },
+        {
+          "x": "HND",
+          "y": 17.6
+        },
+        {
+          "x": "HRV",
+          "y": 36.4
+        },
+        {
+          "x": "HTI",
+          "y": 12.0
+        },
+        {
+          "x": "HUN",
+          "y": 28.2
+        },
+        {
+          "x": "IDN",
+          "y": 39.8
+        },
+        {
+          "x": "IND",
+          "y": 11.4
+        },
+        {
+          "x": "IRL",
+          "y": 22.1
+        },
+        {
+          "x": "IRN",
+          "y": 11.1
+        },
+        {
+          "x": "ISL",
+          "y": 16.1
+        },
+        {
+          "x": "ISR",
+          "y": 30.1
+        },
+        {
+          "x": "ITA",
+          "y": 23.8
+        },
+        {
+          "x": "JAM",
+          "y": 17.6
+        },
+        {
+          "x": "JOR",
+          "y": 41.0
+        },
+        {
+          "x": "JPN",
+          "y": 21.7
+        },
+        {
+          "x": "KAZ",
+          "y": 25.5
+        },
+        {
+          "x": "KEN",
+          "y": 13.2
+        },
+        {
+          "x": "KGZ",
+          "y": 26.3
+        },
+        {
+          "x": "KHM",
+          "y": 22.5
+        },
+        {
+          "x": "KOR",
+          "y": 26.7
+        },
+        {
+          "x": "LBN",
+          "y": 38.3
+        },
+        {
+          "x": "LBR",
+          "y": 15.0
+        },
+        {
+          "x": "LKA",
+          "y": 13.9
+        },
+        {
+          "x": "LSO",
+          "y": 27.2
+        },
+        {
+          "x": "LTU",
+          "y": 29.4
+        },
+        {
+          "x": "LUX",
+          "y": 23.6
+        },
+        {
+          "x": "LVA",
+          "y": 35.3
+        },
+        {
+          "x": "MAR",
+          "y": 22.9
+        },
+        {
+          "x": "MEX",
+          "y": 13.4
+        },
+        {
+          "x": "MLI",
+          "y": 20.0
+        },
+        {
+          "x": "MMR",
+          "y": 18.5
+        },
+        {
+          "x": "MNG",
+          "y": 26.1
+        },
+        {
+          "x": "MOZ",
+          "y": 18.2
+        },
+        {
+          "x": "MRT",
+          "y": 23.9
+        },
+        {
+          "x": "MWI",
+          "y": 15.7
+        },
+        {
+          "x": "MYS",
+          "y": 21.5
+        },
+        {
+          "x": "NAM",
+          "y": 24.5
+        },
+        {
+          "x": "NER",
+          "y": 9.3
+        },
+        {
+          "x": "NGA",
+          "y": 9.4
+        },
+        {
+          "x": "NLD",
+          "y": 24.8
+        },
+        {
+          "x": "NOR",
+          "y": 22.2
+        },
+        {
+          "x": "NPL",
+          "y": 23.2
+        },
+        {
+          "x": "NZL",
+          "y": 16.3
+        },
+        {
+          "x": "OMN",
+          "y": 14.9
+        },
+        {
+          "x": "PAK",
+          "y": 22.8
+        },
+        {
+          "x": "PAN",
+          "y": 6.6
+        },
+        {
+          "x": "PER",
+          "y": 13.7
+        },
+        {
+          "x": "PHL",
+          "y": 25.6
+        },
+        {
+          "x": "POL",
+          "y": 27.9
+        },
+        {
+          "x": "PRT",
+          "y": 22.2
+        },
+        {
+          "x": "ROU",
+          "y": 29.5
+        },
+        {
+          "x": "RUS",
+          "y": 39.1
+        },
+        {
+          "x": "SAU",
+          "y": 18.0
+        },
+        {
+          "x": "SEN",
+          "y": 11.6
+        },
+        {
+          "x": "SLE",
+          "y": 35.8
+        },
+        {
+          "x": "SRB",
+          "y": 41.6
+        },
+        {
+          "x": "SVK",
+          "y": 28.2
+        },
+        {
+          "x": "SVN",
+          "y": 20.2
+        },
+        {
+          "x": "SWE",
+          "y": 20.6
+        },
+        {
+          "x": "SWZ",
+          "y": 10.4
+        },
+        {
+          "x": "THA",
+          "y": 21.3
+        },
+        {
+          "x": "TUR",
+          "y": 25.5
+        },
+        {
+          "x": "UGA",
+          "y": 9.6
+        },
+        {
+          "x": "UKR",
+          "y": 30.0
+        },
+        {
+          "x": "URY",
+          "y": 22.9
+        },
+        {
+          "x": "USA",
+          "y": 17.2
+        },
+        {
+          "x": "UZB",
+          "y": 12.9
+        },
+        {
+          "x": "ZAF",
+          "y": 18.4
+        },
+        {
+          "x": "ZMB",
+          "y": 15.5
+        },
+        {
+          "x": "ZWE",
+          "y": 16.4
+        }
+      ]
+    },
+    {
+      "format": {
+        "feature": "world-countries",
+        "type": "topojson"
+      },
+      "name": "countries",
+      "transform": [
+        {
+          "as": "value",
+          "default": "noval",
+          "key": "data.id",
+          "type": "zip",
+          "with": "table",
+          "withKey": "data.x"
+        },
+        {
+          "test": "d.path!='noval' && d.value!='noval'",
+          "type": "filter"
+        },
+        {
+          "projection": "mercator",
+          "scale": 150,
+          "translate": [
+            480,
+            250
+          ],
+          "type": "geopath",
+          "value": "data"
+        }
+      ],
+      "url": "world-countries.topo.json"
+    },
+    {
+      "format": {
+        "feature": "world-countries",
+        "type": "topojson"
+      },
+      "name": "countries_outline",
+      "transform": [
+        {
+          "projection": "mercator",
+          "scale": 150,
+          "translate": [
+            480,
+            250
+          ],
+          "type": "geopath",
+          "value": "data"
+        }
+      ],
+      "url": "world-countries.topo.json"
+    }
+  ],
+  "height": 500,
+  "legends": [
+    {
+      "fill": "color",
+      "offset": 0,
+      "properties": {},
+      "title": "Percent_Smokers"
+    }
+  ],
+  "marks": [
+    {
+      "from": {
+        "data": "countries"
+      },
+      "properties": {
+        "enter": {
+          "path": {
+            "field": "path"
+          },
+          "stroke": {
+            "value": "#000000"
+          }
+        },
+        "update": {
+          "fill": {
+            "field": "value.data.y",
+            "scale": "color"
+          }
+        }
+      },
+      "type": "path"
+    },
+    {
+      "from": {
+        "data": "countries_outline"
+      },
+      "properties": {
+        "enter": {
+          "path": {
+            "field": "path"
+          },
+          "stroke": {
+            "value": "#000"
+          }
+        }
+      },
+      "type": "path"
+    }
+  ],
+  "padding": "auto",
+  "scales": [
+    {
+      "domain": [
+        4.7,
+        38.239999999999995
+      ],
+      "name": "color",
+      "range": [
+        "#fcfbfd",
+        "#efedf5",
+        "#dadaeb",
+        "#bcbddc",
+        "#9e9ac8",
+        "#807dba",
+        "#6a51a3",
+        "#54278f",
+        "#3f007d"
+      ],
+      "type": "quantize"
+    }
+  ],
+  "width": 960
+}
